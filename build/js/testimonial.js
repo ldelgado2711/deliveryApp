@@ -1,0 +1,2 @@
+import{insertaTestimonio}from"./loadTestimonios.js";const loadTestimonios=async()=>{const o=document.querySelector(".loader");try{const t=await fetch("./build/js/testimonios.json");if(!t.ok)throw"Archivo no encontrado !";{const e=await t.json();setTimeout(()=>{o.remove(),Object.keys(e).forEach(o=>{insertaTestimonio(e[o])})},500)}}catch(o){console.log(o)}};export default loadTestimonios;
+//# sourceMappingURL=testimonial.js.map

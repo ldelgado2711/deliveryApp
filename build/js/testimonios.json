@@ -1,0 +1,31 @@
+[{
+        "cliente": "Juan Perez Perez",
+        "calificacion": 5,
+        "comentario": "App genial, aumenta ventas, canaliza los pedidos, oferece un mejor servicio a los clientes creando un menú digital para tu negocio. Es ágil y rápido. Funciona en cualquier dispositivo celular, tablet o laptop.",
+        "imagen": "./build/img/testimonial1.jpg"
+    },
+    {
+        "cliente": "Maritza Brenes",
+        "calificacion": 5,
+        "comentario": "Permite conoce a losclientes. Que les gusta, como realizan sus pedidos, como se sienten cuando comen en tu local.",
+        "imagen": "./build/img/testimonial2.jpg"
+    },
+    {
+        "cliente": "Rocio Vega",
+        "calificacion": 4,
+        "comentario": "Está súper nada más que hice un pedido de prueba y no suena ninguna notificación ni nada al llegar el pedido más que en WhatsApp",
+        "imagen": "./build/img/testimonial4.jpg"
+    },
+    {
+        "cliente": "Silvia Marín",
+        "calificacion": 5,
+        "comentario": "Los productos, coberturas y variantes. Las promociones y cupones. Personaliza todo, simplemente Fantástico!! ",
+        "imagen": "./build/img/testimonial5.jpg"
+    },
+    {
+        "cliente": "Luis Delgado Marin",
+        "calificacion": 5,
+        "comentario": "Para entrega, para llevar o en sitio. Permite establecer horarios y medios de pago, así mismo áreas de entrega y costos. Estamos encantados con la aplicación",
+        "imagen": "./build/img/testimonial3.jpg"
+    }
+]

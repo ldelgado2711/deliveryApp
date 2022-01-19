@@ -1,0 +1,51 @@
+[{
+        "nombre": "La Casona D'Toño",
+        "imagen": "./build/img/la-casona-de-tono.jpg",
+        "informacion": "En La Casona D'Toño ofrecemos comida de excelente calidad y le invitamos a probarla. La clave de nuestro éxito es simple: proporcionar comida de calidad que sabe bien en toda ocasión. Estamos orgullosos de servir deliciosos platos auténticos a nuestros clientes como por ejemplo: Comidas rápidas, Café, Desayuno, Olla de Carne, Tortillas Aliñadas. Deguste comida deliciosa. Tome una copa. ¡Pero, sobre todo, relájese! Le damos las gracias desde el fondo de nuestro corazón por su apoyo continuo. Y... disfrute de una hermosa vista de la ciudad y/o de las montañas !"
+    },
+    {
+        "nombre": "Pollos el buen gusto",
+        "imagen": "./build/img/pollos-el-buen-gusto.jpg",
+        "informacion": "Restaurante de comida rápida, tipica. El mejor sabor al alcance de todos"
+    },
+    {
+        "nombre": "Cafetería Bread House",
+        "imagen": "./build/img/breadhouse.jpg",
+        "informacion": "Esta cafetería y restaurante te va a encantar, te lo aseguro, primero porque el lugar está muy bien decorado, está diseñado con una temática bastante particular con dibujos estilo caricatura y pequeños detalles estilo vintage y un ambiente muy agradable."
+    },
+    {
+        "nombre": "Restaurante los Chanchitos",
+        "imagen": "./build/img/los-chanchitos.jpg",
+        "informacion": "En este restaurante encontrarás un ambiente agradable, buena comida, especial para disfrutar con amigos o en familia."
+    },
+    {
+        "nombre": "Kue Garden Bar",
+        "imagen": "./build/img/kue-garden-bar.jpg",
+        "informacion": "Bar y restaurante fusión. Posee un menú muy variado, pues han combinado su gastronomía con platillos internacionales entre los que pueden encontrar comida Peruana, Japonesa, Mexicana y más."
+    },
+    {
+        "nombre": "Rincón típico Don Juan",
+        "imagen": "./build/img/rincon-tipico-don-juan.jpg",
+        "informacion": "Si quieres comer comida típica costarricense, este restaurante te va a encantar. Disfruta deliciosos casados, olla de carna, carne en salsa, tortillas palmeadas y más en el centro de Tibás."
+    },
+    {
+        "nombre": "Restaurante las Hortensias",
+        "imagen": "./build/img/restaurante-las-hortensias.jpg",
+        "informacion": "Disfruta deliciosos cortes de carne con una maravillosa vista, frente al volcán Arenal, en San Vicente. Conocido también por su granja don Lolo, donde te podrás hospedar y disfrutar de una estadía grandiosa en un paisaje natural, desconectado de todo."
+    },
+    {
+        "nombre": "Churrasco Factory",
+        "imagen": "./build/img/churrasco-factory.jpg",
+        "informacion": "El restaurante lindísimo...súper acogedor, la atención inigualable. El hecho de poder entrar a la cocina y ver lo maravilloso de este espacio, hace de tu velada sea espectacular. Cada plato montado y servido con un gusto de los grandes."
+    },
+    {
+        "nombre": "Restaurante El Garaje",
+        "imagen": "./build/img/el-garaje.jpg",
+        "informacion": "Atención respetuosa y cercana a la vez! Un gran sabor en medio de la Ciudad, variedad de cortes y estilos, buen vino con diferentes cartas de cervezas nacionales, le recomiendamos la cerveza Mytos, cerveza con sedimento que obliga a saborearla hasta la última gota."
+    },
+    {
+        "nombre": "El Rancho del Sapito",
+        "imagen": "./build/img/el-rancho-del-sapito.jpg",
+        "informacion": "La especialidad del Rancho del Sapito,  es la trucha y los «platos grandes», ya que el restaurante cuenta con diferentes estanques que lo rodean con truchas, las cuales usted puede pescar o simplemente pedirlas preparadas. Además, el Rancho del Sapito también ofrece otra gran variedad de platillos como por ejemplo sus exquisitas sopas, incluyendo olla de carne y su exclusiva sopa de trucha, chorreadas, tortillas de queso, chicharrones de trucha y carnes de todo tipo, incluyendo carne de ternero."
+    }
+]

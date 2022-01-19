@@ -1,0 +1,2 @@
+import{insertaRestaurante}from"./loadRestaurantes.js";const loadRestaurantes=()=>{const e=document.getElementById("mis-restaurantes"),t=new XMLHttpRequest;document.createDocumentFragment();t.addEventListener("readystatechange",s=>{if(4===t.readyState)if(t.status>=200&&t.status<300){JSON.parse(t.responseText).forEach(e=>{insertaRestaurante(e)})}else{const s=t.statusText||"Ocurrio un error !";e.innerHTML=`Atención! ${t.statusText}: ${s}`}}),t.open("GET","./build/js/restaurantes.json"),t.send()};export default loadRestaurantes;
+//# sourceMappingURL=restaurante.js.map

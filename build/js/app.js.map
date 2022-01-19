@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["loadTestimonios","loadRestaurantes"],"mappings":"OAAOA,oBAAqB,0BACrBC,qBAAsB,mBAC7BD,kBACAC","file":"app.js","sourcesContent":["import loadTestimonios from \"./testimonial.js\";\r\nimport loadRestaurantes from \"./restaurante.js\";\r\nloadTestimonios();\r\nloadRestaurantes();"]}
